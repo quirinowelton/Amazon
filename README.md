@@ -1,4 +1,4 @@
-'# SNA Political Books (Em construção) 📚🔗
+# SNA Political Books (Em construção) 📚🔗
 
 Social Network Analysis de padrões de co-compra de livros políticos.
 Analisando conexões ideológicas e polarização através do comportamento de compra de livros.
